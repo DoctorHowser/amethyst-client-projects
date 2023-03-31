@@ -1,1 +1,1 @@
-# shawl-client-projects
+# amethyst-client-projects
